@@ -1,8 +1,8 @@
-# Valuation Simulator
+# Company Valuation Predictor
 
 ## Overview
 
-This analysis predicts company valuations (in USD) using financial and operational metrics. The dataset includes features such as Revenue, Monthly Active Users, Revenue Growth, Total Addressable Market (TAM), Revenue per User, LTV:CAC Ratio, industry categories (SaaS, Greentech, Fintech, Edtech, Healthtech), and funding stages (Seed, Series A). We use Linear Regression and XGBoost models, evaluating performance with RMSE, MAPE, and R² metrics.
+This analysis predicts company valuations (in USD) using financial and operational metrics. The dataset includes features such as **Revenue**, **Monthly Active Users**, **Revenue Growth**, **Total Addressable Market (TAM)**, **Revenue per User**, **LTV:CAC Ratio**, **Industry categories (SaaS, Greentech, Fintech, Edtech, Healthtech)**, and **Funding stages (Seed, Series A)**. We use Linear Regression and XGBoost models, evaluating performance with **RMSE**, **MAPE**, and **R² metrics**.
 
 **Goals:**
 - Understand feature correlations with valuation.
